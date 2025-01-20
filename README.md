@@ -33,3 +33,7 @@ detalhe_id: Identificador único do detalhe do pedido (Primary Key).
 pedido_id: Referência ao pedido correspondente, ligando à tabela Pedidos (Foreign Key).
 produto_id: Referência ao produto adquirido, ligando à tabela Produtos (Foreign Key).
 quantidade: Quantidade do produto adquirido no pedido.
+
+
+
+![image](https://github.com/user-attachments/assets/d5c368e4-edea-425b-a6f1-9ca4e2a8cf3e)
