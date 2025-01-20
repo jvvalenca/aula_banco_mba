@@ -1,4 +1,4 @@
-Descrição dos Campos
+#Descrição dos Campos
 Tabela Clientes
 cliente_id: Identificador único do cliente.
 nome: Nome completo do cliente.
